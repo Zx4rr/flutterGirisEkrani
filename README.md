@@ -1,8 +1,8 @@
-# flutter_login4
+# Flutter Giriş Ekranı
 
-A new Flutter project.
+Flutter Mobil Uygulama İle Basit Bir Girş Ekranı
 
-## Getting Started
+## Başlamadan Önce Bu Adımları Uygulayın
 
 This project is a starting point for a Flutter application.
 
